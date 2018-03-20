@@ -132,7 +132,7 @@
 
         {
           "title": {
-            "de": "Socket.io Entwicklung"
+            "de": "Socket.io Entwicklung mit Node.js"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -183,6 +183,53 @@
 
         {
           "title": {
+            "de": "Frontend Entwicklung mit Angular2"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "03/2017 - 05/2017",
+          "description": {
+            "de": "Entwicklung der GUI Komponenten für das mercedes me Portal die das Konfigurieren des Fahrzeuges ermöglicht"
+          },
+          "highlights": [
+            {
+              "de": "Angular2 & Typescript"
+            },
+            {
+              "de": "Redux für das Verwalten der States der Anwendung"
+            },
+            {
+              "de": "Unit Tests mit Jasmine"
+            },
+            {
+              "de": "e2e Tests mit Protractor"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Frontend Entwicklung mit Angular2"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "01/2017 - 03/2017",
+          "description": {
+            "de": "Entwicklung eines Prototypes für die Sick AG die das installieren von Anwendungen auf Sensoren über die Cloud ermöglicht"
+          },
+          "highlights": [
+            {
+              "de": "Angular2 & Typescript"
+            }
+          ]
+        },
+
+
+
+        {
+          "title": {
             "de": "Serverseitige Entwicklung mit Node.js & AngularJS basierendes CMS"
           },
           "type": {
@@ -212,7 +259,7 @@
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "06/2015 - 07/2016",
+          "period": "04/2015 - 03/2016",
           "description": {
             "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die multiplayer edutainment Ausstellungsfläche der Ersten Financial Life Park in Wien"
           },
