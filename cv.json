@@ -99,6 +99,7 @@
             }
           ]
         },
+
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js"
@@ -128,12 +129,13 @@
             }
           ]
         },
+
         {
           "title": {
             "de": "Socket.io Entwicklung"
           },
           "type": {
-            "de": "Nebenprojekt"
+            "de": "Hauptprojekt"
           },
           "period": "01/2017 - 03/2017",
           "description": {
@@ -151,6 +153,7 @@
             }
           ]
         },
+
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js"
@@ -170,13 +173,14 @@
               "de": "Versenden von SMS und Push Notifications an die mobile App"
             },
             {
-              "de": "Admin Bereich (Angular 4) für die Timeline Verwaltung des Events"
+              "de": "Angular 4 basierter Admin Bereich für die Verwaltung der Timeline des Events"
             },
             {
               "de": "MySQL, Docker und AWS"
             }
           ]
         },
+
         {
           "title": {
             "de": "Serverseitige Entwicklung mit Node.js & AngularJS basierendes CMS"
@@ -184,7 +188,31 @@
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "06/2017 - 11/2017",
+          "period": "08/2016 - 11/2016",
+          "description": {
+            "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen"
+          },
+          "highlights": [
+            {
+              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+            },
+            {
+              "de": "AngularJS basierendes CMS"
+            },
+            {
+              "de": "MySQL, Centos, Docker"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Serverseitige Entwicklung mit Node.js & AngularJS basierendes CMS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "06/2015 - 07/2016",
           "description": {
             "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die multiplayer edutainment Ausstellungsfläche der Ersten Financial Life Park in Wien"
           },
