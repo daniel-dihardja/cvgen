@@ -86,13 +86,13 @@
               "de": "Unit test der Komponenten"
             },
             {
-              "de": "Initiale Entwicklung mit Angular 2 & TypeScript"
-            },
-            {
               "de": "Redux für das Verwalten der States"
             },
             {
               "de": "Daten Austausch über REST Schnittstellen"
+            },
+            {
+              "de": "Initiale Entwicklung mit Angular 2 & TypeScript"
             },
             {
               "de": "Upgrade auf Angular 4"
