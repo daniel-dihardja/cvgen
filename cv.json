@@ -10,6 +10,7 @@
     "de": "Seit 2013 Freiberuflicher Anwendungsentwickler mit Schwerpunkt fullstack JavaScript/Node.js",
     "en": "Since 2013 Freelancer software developer with focus on fullstack JavaScript/Node.js"
   },
+
   "education": [
     {
       "title": {
@@ -24,6 +25,7 @@
       "period": "2000 - 2005"
     }
   ],
+
   "experience": [
     {
       "title": {
@@ -35,6 +37,7 @@
         "en": "2013 - Today"
       }
     },
+
     {
       "title": {
         "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart"
@@ -43,6 +46,7 @@
         "de": "2012 - 2013"
       }
     },
+
     {
       "title": {
         "de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart"
@@ -51,6 +55,7 @@
         "de": "2010 - 2012"
       }
     },
+
     {
       "title": {
         "de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart"
@@ -60,6 +65,7 @@
       }
     }
   ],
+
   "projects": [
     {
       "title": {
@@ -67,6 +73,7 @@
         "en": "Freelancer projects"
       },
       "list": [
+
         {
           "title": {
             "de": "Frontend Entwicklung mit Angular 2 & 4"
@@ -109,7 +116,8 @@
           },
           "period": "03/2018 - 06/2018",
           "description": {
-            "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien"
+            "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien",
+            "en": "Implementing REST APIs for the AUDI Retailer Meeting in Vienna"
           },
           "highlights": [
             {
@@ -190,7 +198,7 @@
           },
           "period": "03/2017 - 05/2017",
           "description": {
-            "de": "Entwicklung der GUI Komponenten für das mercedes me Portal die das Konfigurieren des Fahrzeuges ermöglicht"
+            "de": "Entwicklung der GUI Komponenten für das mercedes me Portal die das Konfigurieren eines Fahrzeuges ermöglichen soll"
           },
           "highlights": [
             {
@@ -217,7 +225,7 @@
           },
           "period": "01/2017 - 03/2017",
           "description": {
-            "de": "Entwicklung eines Prototypes für die Sick AG die das installieren von Anwendungen auf Sensoren über die Cloud ermöglicht"
+            "de": "Entwicklung eines Prototypes für die Sick AG die das installieren von Anwendungen auf Sensoren über die Cloud ermöglichen soll"
           },
           "highlights": [
             {
@@ -226,11 +234,9 @@
           ]
         },
 
-
-
         {
           "title": {
-            "de": "Serverseitige Entwicklung mit Node.js & AngularJS basierendes CMS"
+            "de": "Serverseitige Anwendung mit Node.js & CMS basierendes auf AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -254,12 +260,42 @@
 
         {
           "title": {
-            "de": "Serverseitige Entwicklung mit Node.js & AngularJS basierendes CMS"
+            "de": "Hybrid App mit Ionic, AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "04/2015 - 03/2016",
+          "period": "03/2016 - 07/2016",
+          "description": {
+            "de": "Entwicklung einer hybrid App mit ionic bei dem der User Produkte aus ausgewählten Shops vorbestellen kann"
+          },
+          "highlights": [
+            {
+              "de": "Entwicklung der GUI Komponenten"
+            },
+            {
+              "de": "Daten synchronisieren aus einer remote CouchDB in die lokale CouchDB"
+            },
+            {
+              "de": "Daten Austausch über REST Schnittstellen"
+            },
+            {
+              "de": "Unit Tests mit Jasmine"
+            },
+            {
+              "de": "E2e Tests mit Protractor"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Serverseitige Anwendung mit Node.js & AngularJS basierendes CMS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "04/2015 - 02/2016",
           "description": {
             "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die multiplayer edutainment Ausstellungsfläche der Ersten Financial Life Park in Wien"
           },
@@ -278,6 +314,190 @@
             },
             {
               "de": "MySQL, Centos, Docker"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Hybrid App mit Ionic, AngularJS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "03/2015",
+          "description": {
+            "de": "Entwickluing der grund Architektur einer hybrid App mit Ionic über die sämtliche Events und sonstige Angebote in einer Stadt abgefragt werden können"
+          },
+          "highlights": [
+            {
+              "de": "Entwicklung des technischen Konzeptes der hybrid App"
+            },
+            {
+              "de": "Workshop über entwicklung einer hybrid App mit ionic und einführung in AngularJS"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Entwicklung einer hybrid App mit Ionic, AngularJS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "01/2015 - 02/2015",
+          "description": {
+            "de": "Entwicklung einer hybrid App mit Ionic um die Rettungsraten eines Gebäudes im falle eines Brandes zu berechnen"
+          },
+          "highlights": [
+            {
+              "de": "Entwicklung der GUI Komponenten"
+            },
+            {
+              "de": "Umsetzung der Kalkulation aus den Formeln in der App"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Hybrid App mit Ionic, AngularJS, bluetooth low energy"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "09/2015 - 12/2015",
+          "description": {
+            "de": "Entwicklung einer hybrid App mit Ionic um einen Lautsprecher über bluetoote LE zu steuern"
+          },
+          "highlights": [
+            {
+              "de": "Entwicklung der GUI Komponenten"
+            },
+            {
+              "de": "Implementierung des bluetooth steuerprotokoll"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Touchscreen mit 3D Interaktionen mit Unity3D"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "02/2014 - 08/2014",
+          "description": {
+            "de": "Für eine Messe wurden für sämtliche Touchscreens, 3D Interaktionen mit Unity3D/C# entwickelt"
+          },
+          "highlights": [
+            {"de": "Implementierung der 3D Navigation"},
+            {"de": "Implementierung der 2D GUI Komponenten"},
+            {"de": "Anwendungskonfiguration aus Dateien auslesen"}
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Website mit AngularJS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "11/2013 - 12/2013",
+          "description": {
+            "de": "Eine one Pager Kampagne Webseite basierend auf AngularJS für T-Online"
+          },
+          "highlights": [
+            {"de": "Das erste AngularJS Projekt"}
+          ]
+        }
+
+      ]
+    },
+    {
+      "title": {
+        "de": "Projekte bei Weitklick (2010 - 2013)"
+      },
+      "list": [
+
+        {
+          "title": {
+            "de": "Unity3D/C# Developer"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "2012 - 2013",
+          "description": {
+            "de": "Entwicklung von 3D Interaktionen mit Unity3D/C# mit Schwerpunkt für Touchscreens auf Messen"
+          },
+          "highlights": [
+            {
+              "de": "3D Navigation & Steuerungen"
+            },
+            {
+              "de": "Entwicklung in C#"
+            },
+            {
+              "de": "Enge Zusammenarbeit mit der 3D Abteilung"
+            }
+          ]
+        },
+
+
+        {
+          "title": {
+            "de": "Senior Flash/AS3 Entwickler"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "2010 - 2012",
+          "description": {
+            "de": "Entwicklung von Flash/AS3 basierte online Editoren die im Online Shop integriert sind um Produkte personalisiert zu gestalten"
+          },
+          "highlights": [
+            {
+              "de": "Impelemntierung der GUI für den Editor"
+            },
+            {
+              "de": "Daten Austausch über Schnittstellen im json Format"
+            },
+            {
+              "de": "Entwicklung mit AS3 & das PureMVC Framework"
+            }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "title": {
+        "de": "Projekte bei Hydra New Media (2008 - 2010)"
+      },
+      "list": [
+
+        {
+          "title": {
+            "de": "Flash/AS3 Entwikler"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "2008 - 2010",
+          "description": {
+            "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson"
+          },
+          "highlights": [
+            {
+              "de": "Daten Austausch über Schnittstellen"
+            },
+            {
+              "de": ""
             }
           ]
         }
