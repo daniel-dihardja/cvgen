@@ -6,49 +6,60 @@
       "en": "08.11.1979 in Offenbach am Main"
     }
   },
-
   "objective": {
     "de": "Seit 2013 Freiberuflicher Anwendungsentwickler mit Schwerpunkt fullstack JavaScript/Node.js",
     "en": "Since 2013 Freelancer software developer with focus on fullstack JavaScript/Node.js"
   },
-
   "education": [
     {
-      "title": {"de": "Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart"},
+      "title": {
+        "de": "Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart"
+      },
       "period": "2005 - 2008"
     },
     {
-      "title": {"de": "Staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design"},
+      "title": {
+        "de": "Staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design"
+      },
       "period": "2000 - 2005"
     }
   ],
-
   "experience": [
     {
       "title": {
         "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
         "en": "Freelancer software developer with focus on JavaScript/Node.js"
       },
-
       "period": {
         "de": "2013 - Heute",
         "en": "2013 - Today"
       }
     },
     {
-      "title": {"de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart"},
-      "period": {"de": "2012 - 2013"}
+      "title": {
+        "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart"
+      },
+      "period": {
+        "de": "2012 - 2013"
+      }
     },
     {
-      "title": {"de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart"},
-      "period": {"de": "2010 - 2012"}
+      "title": {
+        "de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart"
+      },
+      "period": {
+        "de": "2010 - 2012"
+      }
     },
     {
-      "title": {"de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart"},
-      "period": {"de": "2008 - 2010"}
+      "title": {
+        "de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart"
+      },
+      "period": {
+        "de": "2008 - 2010"
+      }
     }
   ],
-
   "projects": [
     {
       "title": {
@@ -57,56 +68,142 @@
       },
       "list": [
         {
-          "title": {"de": "Frontend Entwicklung mit Angular 2 & 4"},
-          "type": {"de": "Hauptprojekt"},
+          "title": {
+            "de": "Frontend Entwicklung mit Angular 2 & 4"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
           "period": "06/2017 - 06/2018",
-          "description": {"de": "Frontend Entwicklung mit Angular 2 & 4 für die mobile web Kreditantragstrecke der Creditplus AG"},
+          "description": {
+            "de": "Frontend Entwicklung mit Angular 2 & 4 für die mobile web Kreditantragstrecke der Creditplus AG"
+          },
           "highlights": [
-            {"de": "Entwicklung der UI Komponenten"},
-            {"de": "Unit test der Komponenten"},
-            {"de": "Initiale Entwicklung mit Angular 2 & TypeScript"},
-            {"de": "Redux für das Verwalten der States"},
-            {"de": "Daten Austausch über REST Schnittstellen"},
-            {"de": "Upgrade auf Angular 4"}
+            {
+              "de": "Entwicklung der UI Komponenten"
+            },
+            {
+              "de": "Unit test der Komponenten"
+            },
+            {
+              "de": "Initiale Entwicklung mit Angular 2 & TypeScript"
+            },
+            {
+              "de": "Redux für das Verwalten der States"
+            },
+            {
+              "de": "Daten Austausch über REST Schnittstellen"
+            },
+            {
+              "de": "Upgrade auf Angular 4"
+            }
           ]
         },
-
         {
-          "title": {"de": "Backend Entwicklung mit Node.js"},
-          "type": {"de": "Nebenprojekt"},
+          "title": {
+            "de": "Backend Entwicklung mit Node.js"
+          },
+          "type": {
+            "de": "Nebenprojekt"
+          },
           "period": "03/2018 - 06/2018",
-          "description": {"de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien"},
+          "description": {
+            "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien"
+          },
           "highlights": [
-            {"de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"},
-            {"de": "Tracken der gesammten besucher Aktivitäten"},
-            {"de": "Versenden von SMS & Push Notifications"},
-            {"de": "Web admin Bereich (Angular 4) für das verwalten der Timeline des Events"},
-            {"de": "MySQL, Docker und AWS"}
+            {
+              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+            },
+            {
+              "de": "Tracken der gesammten besucher Aktivitäten"
+            },
+            {
+              "de": "Versenden von SMS & Push Notifications"
+            },
+            {
+              "de": "Web admin Bereich (Angular 4) für das verwalten der Timeline des Events"
+            },
+            {
+              "de": "MySQL, Docker und AWS"
+            }
           ]
         },
-
         {
-          "title": {"de": "Socket.io Entwicklung"},
-          "type": {"de": "Nebenprojekt"},
+          "title": {
+            "de": "Socket.io Entwicklung"
+          },
+          "type": {
+            "de": "Nebenprojekt"
+          },
           "period": "01/2017 - 03/2017",
-          "description": {"de": "Erweiterung der Socket Server & Client Mechanic um Ausfälle zu erlauben"},
+          "description": {
+            "de": "Erweiterung der Socket Server & Client Mechanic um Ausfälle zu erlauben"
+          },
           "highlights": [
-            {"de": "Zuordnung des client Sockets in Gruppen"},
-            {"de": "Das Verwalten von verbundene & verlorene Clients"},
-            {"de": "Vermisste Notifications erneut an den Client verschicken"}
+            {
+              "de": "Zuordnung des client Sockets in Gruppen"
+            },
+            {
+              "de": "Das Verwalten von verbundene & verlorene Clients"
+            },
+            {
+              "de": "Vermisste Notifications erneut an den Client verschicken"
+            }
           ]
         },
-
         {
-          "title": {"de": "Backend Entwicklung mit Node.js"},
-          "type": {"de": "Nebenprojekt"},
+          "title": {
+            "de": "Backend Entwicklung mit Node.js"
+          },
+          "type": {
+            "de": "Nebenprojekt"
+          },
           "period": "06/2017 - 11/2017",
-          "description": {"de": "Implementierung der REST Schnittstellen für das AUDI Handler Meeting in Cannes"},
+          "description": {
+            "de": "Implementierung der REST Schnittstellen für das AUDI Handler Meeting in Cannes"
+          },
           "highlights": [
-            {"de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"},
-            {"de": "Versenden von SMS und Push Notifications an die mobile App"},
-            {"de": "Admin Bereich (Angular 4) für die Timeline Verwaltung des Events"},
-            {"de": "MySQL, Docker und AWS"}
+            {
+              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+            },
+            {
+              "de": "Versenden von SMS und Push Notifications an die mobile App"
+            },
+            {
+              "de": "Admin Bereich (Angular 4) für die Timeline Verwaltung des Events"
+            },
+            {
+              "de": "MySQL, Docker und AWS"
+            }
+          ]
+        },
+        {
+          "title": {
+            "de": "Serverseitige Entwicklung mit Node.js & AngularJS basierendes CMS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "06/2017 - 11/2017",
+          "description": {
+            "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die Multuplayer Edutainment Umgebung für die Erste Financial Life Park in Wien"
+          },
+          "highlights": [
+            {
+              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+            },
+            {
+              "de": "Daten Austausch zwischen den Geräten mit Socket.io"
+            },
+            {
+              "de": "Triggern der Mediensteuerung über Telnet"
+            },
+            {
+              "de": "AngularJS basierendes CMS"
+            },
+            {
+              "de": "MySQL, Centos, Docker"
+            }
           ]
         }
       ]
