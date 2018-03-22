@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --ss ./public --files ./public/index.html",
+    "build": "node ."
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.5.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
   }
 }

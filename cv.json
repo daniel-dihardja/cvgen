@@ -114,14 +114,14 @@
           "type": {
             "de": "Nebenprojekt"
           },
-          "period": "03/2018 - 06/2018",
+          "period": "03/2018 - 05/2018",
           "description": {
             "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien",
             "en": "Implementing REST APIs for the AUDI Retailer Meeting in Vienna"
           },
           "highlights": [
             {
-              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+              "de": "Entwicklung mit dem Node.js Framework Loopback"
             },
             {
               "de": "Tracken der gesammten besucher Aktivitäten"
@@ -143,9 +143,9 @@
             "de": "Socket.io Entwicklung mit Node.js"
           },
           "type": {
-            "de": "Hauptprojekt"
+            "de": "Nebenprojekt"
           },
-          "period": "01/2017 - 03/2017",
+          "period": "01/2018 - 03/2018",
           "description": {
             "de": "Erweiterung der Socket Server & Client Mechanic um Ausfälle zu erlauben"
           },
@@ -367,7 +367,7 @@
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "09/2015 - 12/2015",
+          "period": "09/2014 - 12/2014",
           "description": {
             "de": "Entwicklung einer hybrid App mit Ionic um einen Lautsprecher über bluetoote LE zu steuern"
           },
@@ -417,6 +417,7 @@
 
       ]
     },
+
     {
       "title": {
         "de": "Projekte bei Weitklick (2010 - 2013)"
@@ -492,14 +493,7 @@
           "description": {
             "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson"
           },
-          "highlights": [
-            {
-              "de": "Daten Austausch über Schnittstellen"
-            },
-            {
-              "de": ""
-            }
-          ]
+          "highlights": []
         }
       ]
     }
