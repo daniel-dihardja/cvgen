@@ -2,12 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>CV</title>
 </head>
 <body>
-    <strong><%= head.name %></strong><br/>
-    <%= head.birth.de %><br/>
+    <strong><%= head.name %></strong>
+    <br/>
+    <%= head.birth.de %>
+    <br/>
     <br/>
     <%= objective.de %>
+    <br/>
+    <br/>
+    <% education.forEach((edu) => { %>
+        <%= edu.period %><br/>
+        <%= edu.title.de %><br/>
+        <br/>
+    <% }); %>
+    <br/>
+    <br/>
+    <% experience.forEach((exp)=> { %>
+        <%= exp.period.de %><br/>
+        <%= exp.title.de %><br/>
+        <br/>
+    <% }); %>
+    <br/>
+    <br/>
+    <% projects.forEach((prj)=> { %>
+        <strong><%= prj.title.de %></strong><br/>
+    <% }); %>
+
 </body>
 </html>
