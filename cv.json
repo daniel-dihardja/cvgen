@@ -117,7 +117,7 @@
           "period": "03/2018 - 05/2018",
           "description": {
             "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien",
-            "en": "Implementing REST APIs for the AUDI Retailer Meeting in Vienna"
+            "en": "Implementing REST APIs for the AUDI dealer Meeting in Vienna"
           },
           "highlights": [
             {
@@ -147,7 +147,7 @@
           },
           "period": "01/2018 - 03/2018",
           "description": {
-            "de": "Erweiterung der Socket Server & Client Mechanic um Ausfälle zu erlauben"
+            "de": "Erweiterung der Socket Server & Client Mechanik um Ausfälle zu erlauben"
           },
           "highlights": [
             {
@@ -171,7 +171,7 @@
           },
           "period": "06/2017 - 11/2017",
           "description": {
-            "de": "Implementierung der REST Schnittstellen für das AUDI Handler Meeting in Cannes"
+            "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Cannes"
           },
           "highlights": [
             {
@@ -341,7 +341,7 @@
 
         {
           "title": {
-            "de": "Entwicklung einer hybrid App mit Ionic, AngularJS"
+            "de": "Hybrid App mit Ionic, AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"

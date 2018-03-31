@@ -5,41 +5,44 @@
     <title>CV</title>
 </head>
 <body>
-    <strong><%= head.name %></strong>
+<strong><%= head.name %></strong>
+<br/>
+<%= head.birth.de %>
+<br/>
+<br/>
+<%= objective.de %>
+<br/>
+<br/>
+<% education.forEach((edu) => { %>
+<%= edu.period %><br/>
+<%= edu.title.de %><br/>
+<br/>
+<% }); %>
+<br/>
+<br/>
+<% experience.forEach((exp) => { %>
+<%= exp.period.de %><br/>
+<%= exp.title.de %><br/>
+<br/>
+<% }); %>
+<br/>
+<br/>
+<% projects.forEach((prj) => { %>
+    <strong><%= prj.title.de %></strong>
     <br/>
-    <%= head.birth.de %>
     <br/>
-    <br/>
-    <%= objective.de %>
-    <br/>
-    <br/>
-    <% education.forEach((edu) => { %>
-        <%= edu.period %><br/>
-        <%= edu.title.de %><br/>
+    <% prj.list.forEach((p) => { %>
+        <%= p.period %><br/>
+        <%= p.type.de %><br/>
+        <strong><%= p.title.de %></strong><br/>
+        <%= p.description.de %>
+        <ul>
+            <% p.highlights.forEach((h) => { %>
+            <li><%= h.de %></li>
+            <% }) %>
+        </ul>
         <br/>
     <% }); %>
-    <br/>
-    <br/>
-    <% experience.forEach((exp)=> { %>
-        <%= exp.period.de %><br/>
-        <%= exp.title.de %><br/>
-        <br/>
-    <% }); %>
-    <br/>
-    <br/>
-    <% projects.forEach((prj)=> { %>
-        <strong><%= prj.title.de %></strong>
-        <br/>
-        <br/>
-        <% prj.list.forEach((p) => {%>
-            <%= p.period %><br/>
-            <%= p.type.de %><br/>
-            <strong><%= p.title.de %></strong><br/>
-            <%= p.description.de %><br/>
-            <br/>
-        <% });%>
-        <br/>
-    <% }); %>
-
+<% }); %>
 </body>
 </html>
