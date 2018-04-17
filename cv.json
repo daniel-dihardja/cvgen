@@ -7,64 +7,86 @@
     }
   },
   "objective": {
-    "de": "Seit 2013 Freiberuflicher Anwendungsentwickler mit Schwerpunkt fullstack JavaScript/Node.js",
+    "de": "Seit 2013 Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
     "en": "Since 2013 Freelancer software developer with focus on fullstack JavaScript/Node.js"
   },
 
-  "education": [
-    {
-      "title": {
-        "de": "Ausbildung zum Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart"
-      },
-      "period": "07/2005 - 06/2008"
+  "technologies": {
+    "title": {
+      "de": "Tools / Frameworks",
+      "en": "Tools / Frameworks"
     },
-    {
-      "title": {
-        "de": "Studium zum staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design"
-      },
-      "period": "07/2000 - 06/2005"
-    }
-  ],
+    "list": [
+      "Angular", "TypeScript", "es6", "jasmine", "protractor", "Loopback"
+    ]
+  },
 
-  "experience": [
-    {
-      "title": {
-        "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
-        "en": "Freelancer software developer with focus on JavaScript/Node.js"
-      },
-      "period": {
-        "de": "2013 - Heute",
-        "en": "2013 - Today"
-      }
+  "education": {
+    "title": {
+      "de": "Ausbildung / Studium",
+      "en": "Education"
     },
-
-    {
-      "title": {
-        "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart"
+    "list": [
+      {
+        "title": {
+          "de": "Ausbildung zum Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart"
+        },
+        "period": "07/2005 - 06/2008"
       },
-      "period": {
-        "de": "2012 - 2013"
+      {
+        "title": {
+          "de": "Studium zum staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design"
+        },
+        "period": "07/2000 - 06/2005"
       }
+    ]
+  },
+
+  "experience": {
+    "title": {
+      "de": "Beruflicher Werdegang",
+      "en": ""
     },
-
-    {
-      "title": {
-        "de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart"
+    "list": [
+      {
+        "title": {
+          "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
+          "en": "Freelancer software developer with focus on JavaScript/Node.js"
+        },
+        "period": {
+          "de": "2013 - Heute",
+          "en": "2013 - Today"
+        }
       },
-      "period": {
-        "de": "2010 - 2012"
-      }
-    },
 
-    {
-      "title": {
-        "de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart"
+      {
+        "title": {
+          "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart"
+        },
+        "period": {
+          "de": "2012 - 2013"
+        }
       },
-      "period": {
-        "de": "2008 - 2010"
+
+      {
+        "title": {
+          "de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart"
+        },
+        "period": {
+          "de": "2010 - 2012"
+        }
+      },
+
+      {
+        "title": {
+          "de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart"
+        },
+        "period": {
+          "de": "2008 - 2010"
+        }
       }
-    }
-  ],
+    ]
+  },
 
   "projects": [
     {
@@ -73,7 +95,6 @@
         "en": "Freelancer projects"
       },
       "list": [
-
         {
           "title": {
             "de": "Frontend Entwicklung mit Angular 2 & 4"
@@ -230,6 +251,12 @@
           "highlights": [
             {
               "de": "Angular2 & Typescript"
+            },
+            {
+              "de": "Unit Tests mit Jasmine"
+            },
+            {
+              "de": "E2E Tests mit Protractor"
             }
           ]
         },
@@ -414,7 +441,6 @@
             {"de": "Das erste AngularJS Projekt"}
           ]
         }
-
       ]
     },
 
@@ -493,7 +519,17 @@
           "description": {
             "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson"
           },
-          "highlights": []
+          "highlights": [
+            {
+              "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson"
+            },
+            {
+              "de": "Personalisierter Content"
+            },
+            {
+              "de": "Tracken der Benutzer Interaktionen"
+            }
+          ]
         }
       ]
     }

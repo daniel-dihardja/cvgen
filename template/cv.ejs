@@ -13,15 +13,17 @@
 <%= objective.de %>
 <br/>
 <br/>
-<% education.forEach((edu) => { %>
-<%= edu.period %><br/>
+<strong><%= education.title.de %></strong><br />
+<% education.list.forEach((edu) => { %>
+<small><i><%= edu.period %></i></small><br/>
 <%= edu.title.de %><br/>
 <br/>
 <% }); %>
 <br/>
 <br/>
-<% experience.forEach((exp) => { %>
-<%= exp.period.de %><br/>
+<strong><%= experience.title.de%></strong><br/>
+<% experience.list.forEach((exp) => { %>
+<small><i><%= exp.period.de %></i></small><br/>
 <%= exp.title.de %><br/>
 <br/>
 <% }); %>
@@ -32,8 +34,8 @@
     <br/>
     <br/>
     <% prj.list.forEach((p) => { %>
-        <%= p.period %><br/>
-        <%= p.type.de %><br/>
+        <small><i><%= p.period %></i></small><br/>
+        <small><%= p.type.de %></small><br/>
         <strong><%= p.title.de %></strong><br/>
         <%= p.description.de %>
         <ul>
