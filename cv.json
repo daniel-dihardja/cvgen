@@ -7,8 +7,8 @@
     }
   },
   "objective": {
-    "de": "Seit 2013 Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
-    "en": "Since 2013 Freelancer software developer with focus on fullstack JavaScript/Node.js"
+    "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
+    "en": "Freelancer software developer with focus on fullstack JavaScript/Node.js"
   },
 
   "technologies": {
@@ -97,6 +97,62 @@
       "list": [
         {
           "title": {
+            "de": "Frontend Entwicklung mit Angular 6"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "07/2018 - 06/2019",
+          "description": {
+            "de": "Mobile first Kreditantragstrecke der Creditplus AG"
+          },
+          "highlights": [
+            {
+              "de": "Angular 6 / TypeScript"
+            },
+
+            {
+              "de": "Update auf Lazy Loading"
+            },
+            {
+              "de": "Update auf RXJS 6"
+            },
+            {
+              "de": "Implementierung Digitaler Kontoblick"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Backend Entwicklung mit Node.js"
+          },
+          "type": {
+            "de": "Neben Projekt"
+          },
+          "period": "09/2018 - 12/2018",
+          "description": {
+            "de": "Serverseitige Anwendung um Reminders per SMS und E-Mail zu verschicken"
+          },
+          "highlights": [
+            {
+              "de": "Node.js"
+            },
+            {
+              "de": "Loopback 3"
+            },
+            {
+              "de": "Docker"
+            },
+            {
+              "de": "AWS"
+            }
+          ]
+        },
+
+
+        {
+          "title": {
             "de": "Frontend Entwicklung mit Angular 2 & 4"
           },
           "type": {
@@ -104,9 +160,12 @@
           },
           "period": "06/2017 - 06/2018",
           "description": {
-            "de": "Frontend Entwicklung mit Angular 2 & 4 für die mobile web Kreditantragstrecke der Creditplus AG"
+            "de": "Mobile first Kreditantragstrecke der Creditplus AG"
           },
           "highlights": [
+            {
+              "de": "Angular4 / TypeScript"
+            },
             {
               "de": "Entwicklung der UI Komponenten"
             },
@@ -121,9 +180,6 @@
             },
             {
               "de": "Initiale Entwicklung mit Angular 2 & TypeScript"
-            },
-            {
-              "de": "Upgrade auf Angular 4"
             }
           ]
         },
@@ -287,7 +343,7 @@
 
         {
           "title": {
-            "de": "Hybrid App mit Ionic, AngularJS"
+            "de": "Shopeur, hybrid App mit Ionic, AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
