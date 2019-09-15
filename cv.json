@@ -17,7 +17,7 @@
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Angular", "TypeScript", "es6", "jasmine", "protractor", "Loopback"
+      "Loopback", "Angular", "TypeScript", "ES6", "Mocca", "Jasmine", "Protractor", "Git", "Jira", "Confluence", "Jenkins", "Docker", "MySQL", "CouchDB", "GraphQL", "AWS", "Serverless"
     ]
   },
 
@@ -35,7 +35,7 @@
       },
       {
         "title": {
-          "de": "Studium zum staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design"
+          "de": "Studium zum staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design in Frankfurt am Main"
         },
         "period": "07/2000 - 06/2005"
       }
@@ -50,7 +50,7 @@
     "list": [
       {
         "title": {
-          "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript/Node.js",
+          "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript / TypeScript / Node.js",
           "en": "Freelancer software developer with focus on JavaScript/Node.js"
         },
         "period": {
@@ -102,6 +102,60 @@
           "type": {
             "de": "Hauptprojekt"
           },
+          "period": "07/2019 - 12/2019",
+          "description": {
+            "de": "Mobile first Kreditantragstrecke der Creditplus AG"
+          },
+          "highlights": [
+            {
+              "de": "Angular 8 / TypeScript"
+            },
+            {
+              "de": "Implementierung der PWA Funktionalitäten"
+            },
+            {
+              "de": "Umstellung des digitalen Kontoblickes auf PSD2"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Backend Entwicklung mit Node.js"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "04/2018 - 08/2019",
+          "description": {
+            "de": "Neues Feature für das Spiel 'Reality Check' im Ersten Financial Life Park in Wien"
+          },
+          "highlights": [
+            {
+              "de": "Node.js / Loopback"
+            },
+            {
+              "de": "Datenstruktur Anpassungen"
+            },
+            {
+              "de": "REST Schnittstellen Anpassungen"
+            },
+            {
+              "de": "Socket.IO"
+            },
+            {
+              "de": "MySQL"
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Frontend Entwicklung mit Angular 6"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
           "period": "07/2018 - 06/2019",
           "description": {
             "de": "Mobile first Kreditantragstrecke der Creditplus AG"
@@ -118,21 +172,22 @@
               "de": "Update auf RXJS 6"
             },
             {
-              "de": "Implementierung Digitaler Kontoblick"
+              "de": "Implementierung des Digitalen Kontoblickes"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit node.js"
           },
           "type": {
             "de": "Neben Projekt"
           },
           "period": "09/2018 - 12/2018",
           "description": {
-            "de": "Serverseitige Anwendung um Reminders per SMS und E-Mail zu verschicken"
+            "de": "Verschicken von event Reminders über SMS und E-Mail für die AUDI Händler während der Auto Shanghai 2019",
+            "en": "Sending event reminder through SMS & Email for the AUDI dealer during the Auto Shanghai 2019"
           },
           "highlights": [
             {
@@ -217,14 +272,14 @@
 
         {
           "title": {
-            "de": "Socket.io Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit Node.js"
           },
           "type": {
             "de": "Nebenprojekt"
           },
           "period": "01/2018 - 03/2018",
           "description": {
-            "de": "Erweiterung der Socket Server & Client Mechanik um Ausfälle zu erlauben"
+            "de": "Erweiterung der Socket Server & Client Mechanik des Flips in Wien um Ausfälle zu behandeln"
           },
           "highlights": [
             {
@@ -319,21 +374,21 @@
 
         {
           "title": {
-            "de": "Serverseitige Anwendung mit Node.js & CMS basierend auf AngularJS"
+            "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "08/2016 - 11/2016",
           "description": {
-            "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen"
+            "de": "Implementierung des Backend und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen"
           },
           "highlights": [
             {
               "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
             },
             {
-              "de": "AngularJS basierendes CMS"
+              "de": "AngularJS basierendes CMS um den Content zu pflegen"
             },
             {
               "de": "MySQL, Centos, Docker"
@@ -343,7 +398,7 @@
 
         {
           "title": {
-            "de": "Shopeur, hybrid App mit Ionic, AngularJS"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -373,21 +428,27 @@
 
         {
           "title": {
-            "de": "Serverseitige Anwendung mit Node.js & CMS basierend auf AngularJS"
+            "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "04/2015 - 02/2016",
           "description": {
-            "de": "Implementierung der Serverseitigen Anwendungen und ein AngularJS basierendes CMS für die multiplayer edutainment Ausstellungsfläche der Ersten Financial Life Park in Wien"
+            "de": "Implementierung des Backends mit Node.js und ein AngularJS basierendes CMS für die multiplayer edutainment Ausstellungsfläche der Ersten Financial Life Park in Wien"
           },
           "highlights": [
             {
-              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+              "de": "User Management für die Betreuer und die Gäste"
             },
             {
-              "de": "Daten Austausch zwischen den Geräten mit Socket.io"
+              "de": "Automatisches erstellen von Gruppen und Teams während des Spieles"
+            },
+            {
+              "de": "Implementierung der REST Schnittstellen für die gesammten 7 Spiele mit dem Node.js Framework Loopback"
+            },
+            {
+              "de": "Kommunikation zwischen den Geräten über Socket.IO"
             },
             {
               "de": "Triggern der Mediensteuerung über Telnet"
@@ -403,7 +464,7 @@
 
         {
           "title": {
-            "de": "Hybrid App mit Ionic, AngularJS"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -424,7 +485,7 @@
 
         {
           "title": {
-            "de": "Hybrid App mit Ionic, AngularJS"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -445,7 +506,7 @@
 
         {
           "title": {
-            "de": "Hybrid App mit Ionic, AngularJS, bluetooth low energy"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS, bluetooth low energy"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -459,14 +520,14 @@
               "de": "Entwicklung der GUI Komponenten"
             },
             {
-              "de": "Implementierung des bluetooth steuerprotokoll"
+              "de": "Implementierung des bluetooth steuerprotokolls"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Touchscreen mit 3D Interaktionen mit Unity3D"
+            "de": "Unity3D Entwicklung für touchscreen Interaktionen"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -484,7 +545,7 @@
 
         {
           "title": {
-            "de": "Website mit AngularJS"
+            "de": "Frontend Entwicklung mit AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"

@@ -29,13 +29,20 @@
 <% }); %>
 <br/>
 <br/>
+
+<strong><%= technologies.title.de%></strong><br/>
+<% technologies.list.forEach(item => { %>
+<%= item + ',' %>
+<% }); %>
+<br/>
+<br/>
 <% projects.forEach((prj) => { %>
     <strong><%= prj.title.de %></strong>
     <br/>
     <br/>
     <% prj.list.forEach((p) => { %>
         <small><i><%= p.period %></i></small><br/>
-        <small><%= p.type.de %></small><br/>
+        <!--small><%= p.type.de %></small><br/-->
         <strong><%= p.title.de %></strong><br/>
         <%= p.description.de %>
         <ul>
