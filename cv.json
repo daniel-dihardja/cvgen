@@ -17,7 +17,7 @@
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Loopback", "Angular", "TypeScript", "ES6", "Mocca", "Jasmine", "Protractor", "Git", "Jira", "Confluence", "Jenkins", "Docker", "MySQL", "CouchDB", "GraphQL", "AWS", "Serverless"
+      "Loopback", "Swagger", "OpenAPI", "Angular", "TypeScript", "ES6", "Mocca", "Jasmine", "Protractor", "Git", "Jira", "Confluence", "Jenkins", "Docker", "MySQL", "CouchDB", "GraphQL", "AWS", "Serverless"
     ]
   },
 
@@ -97,7 +97,7 @@
       "list": [
         {
           "title": {
-            "de": "Frontend Entwicklung mit Angular 6"
+            "de": "Frontend Entwicklung mit Angular"
           },
           "type": {
             "de": "Hauptprojekt"
