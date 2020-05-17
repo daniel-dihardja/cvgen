@@ -13,11 +13,11 @@
 
   "technologies": {
     "title": {
-      "de": "Tools / Frameworks",
+      "de": "Technologies/ Frameworks/ Libraries /Tools",
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Loopback", "Swagger", "OpenAPI", "Angular", "TypeScript", "ES6", "Mocca", "Jasmine", "Protractor", "Git", "Jira", "Confluence", "Jenkins", "Docker", "MySQL", "CouchDB", "GraphQL", "AWS", "Serverless"
+      "Angular", "Typescript", "Rxjs", "ES6", "Protractor", "Storybook", "NodeJS", "Loopback", "MySQL", "Mocca", "Jasmine", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
     ]
   },
 
@@ -95,29 +95,29 @@
         "en": "Freelancer projects"
       },
       "list": [
+
         {
           "title": {
-            "de": "Frontend Entwicklung mit Angular"
+            "de": "Frontend Entwicklung Angular 2/9 - Syngenio AG"
           },
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "07/2019 - 12/2019",
+          "period": "06/2017 - voraussichtlich 12/2020",
           "description": {
-            "de": "Mobile first Kreditantragstrecke der Creditplus AG"
+            "de": "Frontend Entwicklung für diverse Projekte der Creditplus AG"
           },
           "highlights": [
-            {
-              "de": "Angular 8 / TypeScript"
-            },
-            {
-              "de": "Implementierung der PWA Funktionalitäten"
-            },
-            {
-              "de": "Umstellung des digitalen Kontoblickes auf PSD2"
-            }
+            {"de": "Smartmobile, mobile first Antragstrecke für online Kredit Anträge"},
+            {"de": "Webshop, Point of sale eCommerce integration für produkt Finanzierung"},
+            {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten"},
+            {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile"},
+            {"de": "Implementierung des digitalen Kontoblicks (DAC) für die Filialen" },
+            {"de": "B2B Anwendung für Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc" },
+            {"de": "Implementierung des white Labelling für partner Banken"}
           ]
         },
+
 
         {
           "title": {
@@ -126,9 +126,9 @@
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "04/2018 - 08/2019",
+          "period": "04/2019 - 08/2019",
           "description": {
-            "de": "Neues Feature für das Spiel 'Reality Check' im Ersten Financial Life Park in Wien"
+            "de": "Implementierung neue Features für ein multiplayer edutainment Spiel im Ersten Financial Life Park in Wien (Flip)"
           },
           "highlights": [
             {
@@ -149,33 +149,6 @@
           ]
         },
 
-        {
-          "title": {
-            "de": "Frontend Entwicklung mit Angular 6"
-          },
-          "type": {
-            "de": "Hauptprojekt"
-          },
-          "period": "07/2018 - 06/2019",
-          "description": {
-            "de": "Mobile first Kreditantragstrecke der Creditplus AG"
-          },
-          "highlights": [
-            {
-              "de": "Angular 6 / TypeScript"
-            },
-
-            {
-              "de": "Update auf Lazy Loading"
-            },
-            {
-              "de": "Update auf RXJS 6"
-            },
-            {
-              "de": "Implementierung des Digitalen Kontoblickes"
-            }
-          ]
-        },
 
         {
           "title": {
@@ -205,40 +178,6 @@
           ]
         },
 
-
-        {
-          "title": {
-            "de": "Frontend Entwicklung mit Angular 2 & 4"
-          },
-          "type": {
-            "de": "Hauptprojekt"
-          },
-          "period": "06/2017 - 06/2018",
-          "description": {
-            "de": "Mobile first Kreditantragstrecke der Creditplus AG"
-          },
-          "highlights": [
-            {
-              "de": "Angular4 / TypeScript"
-            },
-            {
-              "de": "Entwicklung der UI Komponenten"
-            },
-            {
-              "de": "Unit test der Komponenten"
-            },
-            {
-              "de": "Redux für das Verwalten der States"
-            },
-            {
-              "de": "Daten Austausch über REST Schnittstellen"
-            },
-            {
-              "de": "Initiale Entwicklung mit Angular 2 & TypeScript"
-            }
-          ]
-        },
-
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js"
@@ -256,7 +195,7 @@
               "de": "Entwicklung mit dem Node.js Framework Loopback"
             },
             {
-              "de": "Tracken der gesammten besucher Aktivitäten"
+              "de": "Tracken der besucher Aktivitäten"
             },
             {
               "de": "Versenden von SMS & Push Notifications"
@@ -279,7 +218,7 @@
           },
           "period": "01/2018 - 03/2018",
           "description": {
-            "de": "Erweiterung der Socket Server & Client Mechanik des Flips in Wien um Ausfälle zu behandeln"
+            "de": "Erweiterung des Socket Servers der multiplayer Edutainment Spiele im Ersten Financial Life Park in Wien"
           },
           "highlights": [
             {
@@ -330,7 +269,7 @@
           },
           "period": "03/2017 - 05/2017",
           "description": {
-            "de": "Entwicklung der GUI Komponenten für das mercedes me Portal die das Konfigurieren eines Fahrzeuges ermöglichen soll"
+            "de": "Entwicklung am Mercedes me Portal für die Konfigurieren des Fahrzeuges"
           },
           "highlights": [
             {
@@ -357,7 +296,7 @@
           },
           "period": "01/2017 - 03/2017",
           "description": {
-            "de": "Entwicklung eines Prototypes für die Sick AG die das installieren von Anwendungen auf Sensoren über die Cloud ermöglichen soll"
+            "de": "Entwicklung eines Prototypes für die Sick AG um Anwendungen für Sensoren über die Cloud zu installieren"
           },
           "highlights": [
             {
@@ -405,7 +344,7 @@
           },
           "period": "03/2016 - 07/2016",
           "description": {
-            "de": "Entwicklung einer hybrid App mit ionic bei dem der User Produkte aus ausgewählten Shops vorbestellen kann"
+            "de": "Entwicklung einer hybrid App mit ionic um Produkte vorzubestellen"
           },
           "highlights": [
             {
@@ -435,7 +374,7 @@
           },
           "period": "04/2015 - 02/2016",
           "description": {
-            "de": "Implementierung des Backends mit Node.js und ein AngularJS basierendes CMS für die multiplayer edutainment Ausstellungsfläche der Ersten Financial Life Park in Wien"
+            "de": "Implementierung des Backends mit Node.js und ein AngularJS basierendes CMS für die multiplayer edutainment Spiele im Ersten Financial Life Park in Wien"
           },
           "highlights": [
             {
