@@ -98,7 +98,7 @@
 
         {
           "title": {
-            "de": "Frontend Entwicklung Angular 2/9 - Syngenio AG"
+            "de": "Frontend Entwicklung Angular - Syngenio AG"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -113,7 +113,7 @@
             {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten"},
             {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile"},
             {"de": "Implementierung des digitalen Kontoblicks (DAC) für die Filialen" },
-            {"de": "B2B Anwendung für Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc" },
+            {"de": "B2B Anwendung für die Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc" },
             {"de": "Implementierung des white Labelling für partner Banken"}
           ]
         },
@@ -150,7 +150,7 @@
 
         {
           "title": {
-            "de": "Backend Entwicklung mit node.js"
+            "de": "Backend Entwicklung mit Node.js"
           },
           "type": {
             "de": "Neben Projekt"
