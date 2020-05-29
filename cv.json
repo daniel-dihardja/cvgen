@@ -17,7 +17,7 @@
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Angular", "Typescript", "Rxjs", "ES6", "Protractor", "Storybook", "NodeJS", "Loopback", "MySQL", "Mocca", "Jasmine", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
+      "Angular", "Typescript", "Redux", "Rxjs", "ES6", "Protractor", "Storybook", "NodeJS", "Loopback", "MySQL", "Mocca", "Jasmine", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
     ]
   },
 
