@@ -17,7 +17,7 @@
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Angular", "Typescript", "Redux", "Rxjs", "ES6", "Protractor", "Storybook", "NodeJS", "Loopback", "MySQL", "Mocca", "Jasmine", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
+      "Angular", "Typescript", "Ionic","NgRx", "Rxjs","ES6", "Protractor", "Storybook", "NodeJS", "Loopback", "MySQL", "Cypress", "Mocca", "Jasmine", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
     ]
   },
 
@@ -35,7 +35,7 @@
       },
       {
         "title": {
-          "de": "Studium zum staatlich anerkannter Grafik Designer an der Frankfurter Akademie für Kommunikation und Design in Frankfurt am Main"
+          "de": "Studium zum staatlich anerkannter Grafik Designer mit schwerpunkt interaktive Medien an der Frankfurter Akademie für Kommunikation und Design in Frankfurt am Main"
         },
         "period": "07/2000 - 06/2005"
       }
@@ -103,18 +103,20 @@
           "type": {
             "de": "Hauptprojekt"
           },
-          "period": "06/2017 - voraussichtlich 12/2020",
+          "period": "06/2017 - voraussichtlich 06/2021",
           "description": {
-            "de": "Frontend Entwicklung für diverse Projekte der Creditplus AG"
+            "de": "Frontend Entwicklung für diverse Projekte der Creditplus AG Bank"
           },
           "highlights": [
-            {"de": "Smartmobile, mobile first Antragstrecke für online Kredit Anträge"},
-            {"de": "Webshop, Point of sale eCommerce integration für produkt Finanzierung"},
+            {"de": "Smartmobile, mobile first online kredit Antragstrecke"},
+            {"de": "Webshop, Point of sale eCommerce integration für produkt Finanzierungen"},
+            {"de": "B2B Anwendung für die Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc" },
             {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten"},
             {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile"},
             {"de": "Implementierung des digitalen Kontoblicks (DAC) für die Filialen" },
-            {"de": "B2B Anwendung für die Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc" },
-            {"de": "Implementierung des white Labelling für partner Banken"}
+            {"de": "Implementierung einer projekt übergreifenden UI komponenten Library" },
+            {"de": "Implementierung des white Labelling für partner Banken"},
+            {"de": "Angular, NgRx, Rxjs, Cypress"}
           ]
         },
         {
@@ -360,6 +362,28 @@
             {
               "de": "E2e Tests mit Protractor"
             }
+          ]
+        },
+
+        {
+          "title": {
+            "de": "Coaching Ionic mit AngularJS"
+          },
+          "type": {
+            "de": "Hauptprojekt"
+          },
+          "period": "04/2015 - 02/2016",
+          "description": {
+            "de": "Ionic Coaching für die Tablet App der multiplayer edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)"
+          },
+          "highlights": [
+            {
+              "de": "Einführung in Ionic und AngularJS"
+            },
+            {
+              "de": "Projekt Struktur anlegen"
+            }
+
           ]
         },
 
