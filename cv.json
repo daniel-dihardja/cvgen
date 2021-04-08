@@ -8,7 +8,7 @@
   },
   "objective": {
     "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript / TypeScript / Node.js",
-    "en": "Freelancer software developer with focus on fullstack JavaScript / TypeScript / Node.js"
+    "en": "Freelancer software developer with focus on JavaScript / TypeScript / Node.js"
   },
 
   "technologies": {
@@ -17,7 +17,7 @@
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Angular", "Typescript", "Ionic","NgRx", "Rxjs","ES6", "Protractor", "Storybook", "NodeJS", "Loopback", "MySQL", "Cypress", "Mocca", "Jasmine", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
+      "Angular", "Typescript", "Ionic", "NgRx", "Rxjs","ES6", "NodeJS", "NestJS","Loopback", "MySQL", "Cypress", "Mocca", "Jasmine", "Protractor", "Storybook", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
     ]
   },
 
@@ -29,7 +29,8 @@
     "list": [
       {
         "title": {
-          "de": "Ausbildung zum Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart"
+          "de": "Ausbildung zum Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart",
+          "en": "Apprentice software development at Zend Technologies GmbH in Stuttgart"
         },
         "period": "07/2005 - 06/2008"
       },
@@ -61,28 +62,34 @@
 
       {
         "title": {
-          "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart"
+          "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart",
+          "EN": "Unity3D/C# developer at Weitklick GmbH, Stuttgart",
         },
         "period": {
-          "de": "2012 - 2013"
+          "de": "2012 - 2013",
+          "en": "2012 - 2013"
         }
       },
 
       {
         "title": {
-          "de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart"
+          "de": "Senior Flash/AS3 developer bei Weitklick GmbH, Stuttgart",
+          "en": "Senior Flash/AS3 developer at Weitklick GmbH, Stuttgart"
         },
         "period": {
-          "de": "2010 - 2012"
+          "de": "2010 - 2012",
+          "en": "2010 - 2012"
         }
       },
 
       {
         "title": {
-          "de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart"
+          "de": "Flash/AS3 developer bei Hydra new Media GmbH, Stuttgart",
+          "en": "Flash/AS3 developer at Hydra new Media GmbH, Stuttgart"
         },
         "period": {
-          "de": "2008 - 2010"
+          "de": "2008 - 2010",
+          "en": "2008 - 2010"
         }
       }
     ]
@@ -95,56 +102,64 @@
         "en": "Freelancer projects"
       },
       "list": [
-
         {
           "title": {
-            "de": "Frontend Entwicklung mit Angular - Syngenio AG"
+            "de": "Frontend Entwicklung mit Angular - Syngenio AG",
+            "en": "Frontend development with angular - Syngenio AG"
           },
           "type": {
-            "de": "Hauptprojekt"
+            "de": "Hauptprojekt",
           },
-          "period": "06/2017 - voraussichtlich 06/2021",
+          "period": "06/2017 - 06/2021",
           "description": {
-            "de": "Frontend Entwicklung für diverse Projekte der Creditplus AG Bank"
+            "de": "Frontend Entwicklung für diverse Projekte der Creditplus AG Bank",
+            "en": "Frontend development for consumer and b2b web application at the Creditplus AG Bank"
           },
           "highlights": [
-            {"de": "Smartmobile, mobile first online kredit Antragstrecke"},
-            {"de": "Webshop, Point of sale eCommerce integration für produkt Finanzierungen"},
-            {"de": "B2B Anwendung für die Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc" },
-            {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten"},
-            {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile"},
-            {"de": "Implementierung des digitalen Kontoblicks (DAC) für die Filialen" },
-            {"de": "Implementierung einer projekt übergreifenden UI komponenten Library" },
-            {"de": "Implementierung des white Labelling für partner Banken"},
-            {"de": "Angular, NgRx, Rxjs, Cypress"}
+            {"de": "Smartmobile, mobile first online kredit Antragstrecke", "en": "Mobile first online credit offer"},
+            {"de": "Webshop, Point of sale eCommerce integration für produkt Finanzierungen", "en": "Point of sale eCommerce integration for financing products"},
+            {"de": "B2B Anwendung für die Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc", "en": "B2b web application for financing vehicles, electronic equipment, furnitures, etc" },
+            {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile", "en": "Digital Account Check implementation "},
+            {"de": "Implementierung des white Labelling für partner Banken", "en": "White labelling implementation for partner banks"},
+            {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten", "en": "PWA implementation"},
+            {"de": "Implementierung einer projekt übergreifenden UI komponenten Library" "en": "UI component library"},
+
+            {"de": "Angular, NgRx, Rxjs, Cypress", "en": "Angular, NgRx, Rxjs, Cypress"}
           ]
         },
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit Node.js",
+            "en": "Backend development with Node.js"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "04/2019 - 08/2019",
           "description": {
-            "de": "Implementierung neue Features für ein multiplayer edutainment Spiel im Ersten Financial Life Park in Wien (FLIP)"
+            "de": "Implementierung neue Features für ein multiplayer edutainment Spiel im Ersten Financial Life Park in Wien (FLIP)",
+            "en": "Implementing new Features for the multiplayer edutainment games at the 'Ersten Financial Life Park' in Wien (FLIP)"
           },
           "highlights": [
             {
-              "de": "Node.js / Loopback"
+              "de": "Node.js / Loopback",
+              "en": "Node.js / Loopback"
             },
             {
-              "de": "Datenstruktur Anpassungen"
+              "de": "Datenstruktur Anpassungen",
+              "en": "Data model update"
             },
             {
-              "de": "REST Schnittstellen Anpassungen"
+              "de": "REST Schnittstellen Anpassungen",
+              "en": "Customizing REST API"
             },
             {
-              "de": "Socket.IO"
+              "de": "Socket.IO",
+              "en": "Socket.IO"
             },
             {
-              "de": "MySQL"
+              "de": "MySQL",
+              "en": "MySQL"
             }
           ]
         },
@@ -152,7 +167,8 @@
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit Node.js",
+            "en": "Backend development with Node.js"
           },
           "type": {
             "de": "Neben Projekt"
@@ -164,23 +180,32 @@
           },
           "highlights": [
             {
-              "de": "Node.js"
+              "de": "Node.js",
+              "en": "Node.js"
             },
             {
-              "de": "Loopback 3"
+              "de": "Loopback 3",
+              "en": "Loopback 3"
             },
             {
-              "de": "Docker"
+              "de": "MySQL",
+              "en": "MySQL"
             },
             {
-              "de": "AWS"
+              "de": "Docker",
+              "en": "Docker"
+            },
+            {
+              "de": "AWS",
+              "en": "AWS"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit Node.js",
+            "en": "Node js Backend development"
           },
           "type": {
             "de": "Nebenprojekt"
@@ -192,70 +217,86 @@
           },
           "highlights": [
             {
-              "de": "Entwicklung mit dem Node.js Framework Loopback"
+              "de": "Entwicklung mit dem Node.js Framework Loopback",
+              "en": "Using the Loopback 3 framework"
             },
             {
-              "de": "Tracken der besucher Aktivitäten"
+              "de": "Tracken der besucher Aktivitäten",
+              "en": "Tracking visitors activity",
             },
             {
-              "de": "Versenden von SMS & Push Notifications"
+              "de": "Versenden von SMS & Push Notifications",
+              "en": "Sending SMS & Push Notifications"
             },
             {
-              "de": "Web admin Bereich (Angular 4) für das verwalten der Timeline des Events"
+              "de": "Web admin Bereich (Angular 4) für das verwalten der Timeline des Events",
+              "en": "Web bvased administration tool for managing timelines and events."
             },
             {
-              "de": "MySQL, Docker und AWS"
+              "de": "MySQL, Docker und AWS",
+              "en": "MySQL, Docker and AWS"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit Node.js",
+            "en": "Backend development with node.js",
           },
           "type": {
             "de": "Nebenprojekt"
           },
           "period": "01/2018 - 03/2018",
           "description": {
-            "de": "Erweiterung des Socket Servers der multiplayer Edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)"
+            "de": "Erweiterung des Socket Servers der multiplayer Edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)",
+            "en": "Adding new features to the socket server of the multiplayer edutainment games ath the 'Ersten Financial Life Park in Wien (FLIP)'",
           },
           "highlights": [
             {
-              "de": "Zuordnung des client Sockets in Gruppen"
+              "de": "Zuordnung des client Sockets in Gruppen",
+              "en": "Mapping a visitors socket inside the group"
             },
             {
-              "de": "Das Verwalten von verbundene & verlorene Clients"
+              "de": "Das Verwalten von verbundene & verlorene Clients",
+              "en": "Managing visitors client connections",
             },
             {
-              "de": "Vermisste Notifications erneut an den Client verschicken"
+              "de": "Vermisste Notifications erneut an den Client verschicken",
+              "en": "Resend previous notifications for new visitors client connection"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js"
+            "de": "Backend Entwicklung mit Node.js",
+            "en": "Backend development with node.js"
           },
           "type": {
             "de": "Nebenprojekt"
           },
           "period": "06/2017 - 11/2017",
           "description": {
-            "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Cannes"
+            "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Cannes",
+            "en": "REST API implementation for the AUDI retailer meeting in Cannes 2017"
           },
           "highlights": [
             {
-              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback",
+              "en": "REST API with NodeJS and Loopback"
             },
             {
-              "de": "Versenden von SMS und Push Notifications an die mobile App"
+              "de": "Versenden von SMS und Push Notifications an die mobile App",
+              "en": "Sending SMS and push notifications to the mobile App"
             },
             {
-              "de": "Angular 4 basierter Admin Bereich für die Verwaltung der Timeline des Events"
+              "de": "Angular 4 basierter Admin Bereich für die Verwaltung der Timeline des Events",
+              "en": "Web based administration tool for managing timelines and events"
             },
             {
-              "de": "MySQL, Docker und AWS"
+              "de": "MySQL, Docker und AWS",
+              "en": "MySQL, Docker und AWS"
             }
           ]
         },
