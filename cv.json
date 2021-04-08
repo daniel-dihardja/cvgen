@@ -108,7 +108,7 @@
             "en": "Frontend development with angular - Syngenio AG"
           },
           "type": {
-            "de": "Hauptprojekt",
+            "de": "Hauptprojekt"
           },
           "period": "06/2017 - 06/2021",
           "description": {
@@ -502,98 +502,114 @@
 
         {
           "title": {
-            "de": "Hybrid App Entwicklung mit Ionic, AngularJS"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS",
+            "en": "Hybrid App development with Ionic and AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "03/2015",
           "description": {
-            "de": "Entwickluing der grund Architektur einer hybrid App mit Ionic über die sämtliche Events und sonstige Angebote in einer Stadt abgefragt werden können"
+            "de": "Entwickluing der grund Architektur einer hybrid App mit Ionic über die sämtliche Events und sonstige Angebote in einer Stadt abgefragt werden können",
+            "en": "Scaffolding app project and implementing the core functionality"
           },
           "highlights": [
             {
-              "de": "Entwicklung des technischen Konzeptes der hybrid App"
+              "de": "Entwicklung des technischen Konzeptes der hybrid App",
+              "en": "Technical concept of the app"
             },
             {
-              "de": "Workshop über entwicklung einer hybrid App mit ionic und einführung in AngularJS"
+              "de": "Workshop über entwicklung einer hybrid App mit ionic und einführung in AngularJS",
+              "en": "Workshop about hybrid apps with Ionic and AngularJS "
             }
           ]
         },
 
         {
           "title": {
-            "de": "Hybrid App Entwicklung mit Ionic, AngularJS"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS",
+            "en": "Hybrid app development with Ionic and AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "01/2015 - 02/2015",
           "description": {
-            "de": "Entwicklung einer hybrid App mit Ionic um die Rettungsraten eines Gebäudes im falle eines Brandes zu berechnen"
+            "de": "Entwicklung einer hybrid App mit Ionic um die Rettungsraten eines Gebäudes im falle eines Brandes zu berechnen",
+            "en": "Hybrid app for calculating rescue statistics in case of a fire emergency"
           },
           "highlights": [
             {
-              "de": "Entwicklung der GUI Komponenten"
+              "de": "Entwicklung der GUI Komponenten",
+              "en": "UI Components"
             },
             {
-              "de": "Umsetzung der Kalkulation aus den Formeln in der App"
+              "de": "Umsetzung der Kalkulation aus den Formeln in der App",
+              "en": "Implementing the formulas in code"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Hybrid App Entwicklung mit Ionic, AngularJS, bluetooth low energy"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS, bluetooth low energy",
+            "en": "Hybrid app development with Ionic, AngularJS and bluetooth low energy"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "09/2014 - 12/2014",
           "description": {
-            "de": "Entwicklung einer hybrid App mit Ionic um einen Lautsprecher über bluetoote LE zu steuern"
+            "de": "Entwicklung einer hybrid App mit Ionic um einen Lautsprecher über bluetooth LE zu steuern",
+            "en": "Hybrid app development with Ionic for controlling speakers through bluetooth le"
           },
           "highlights": [
             {
-              "de": "Entwicklung der GUI Komponenten"
+              "de": "Implementing des bluetooth Steuerprotokols",
+              "en": "Implementing the bluetooth control specs"
             },
             {
-              "de": "Implementierung des bluetooth steuerprotokolls"
+              "de": "Entwicklung der GUI Komponenten",
+              "en": "UI Components"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Unity3D Entwicklung für touchscreen Interaktionen"
+            "de": "Unity3D Entwicklung für touchscreen Interaktionen",
+            "en": "Unity3D development for touchscreen Interactions"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "02/2014 - 08/2014",
           "description": {
-            "de": "Für eine Messe wurden für sämtliche Touchscreens, 3D Interaktionen mit Unity3D/C# entwickelt"
+            "de": "Für eine Messe wurden für sämtliche Touchscreens, 3D Interaktionen mit Unity3D/C# entwickelt",
+            "en": "3D Touchscreen interactions for trade fair"
           },
           "highlights": [
-            {"de": "Implementierung der 3D Navigation"},
-            {"de": "Implementierung der 2D GUI Komponenten"},
-            {"de": "Anwendungskonfiguration aus Dateien auslesen"}
+            {"de": "Implementierung der 3D Navigation", "en": "Implementing 3D navigation"},
+            {"de": "Implementierung der 2D GUI Komponenten", "en":  "UI components"}
           ]
         },
 
         {
           "title": {
-            "de": "Frontend Entwicklung mit AngularJS"
+            "de": "Frontend Entwicklung mit AngularJS",
+            "en": "Frontend development with AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "11/2013 - 12/2013",
           "description": {
-            "de": "Eine one Pager Kampagne Webseite basierend auf AngularJS für T-Online Smart Home"
+            "de": "Eine one Pager Kampagne Webseite basierend auf AngularJS für T-Online Smart Home",
+            "en": "Single page application with angular"
           },
           "highlights": [
-            {"de": "Das erste AngularJS Projekt"}
+            {"de": "Das erste AngularJS Projekt"},
+            {"en": "First AngularJS projekt"}
           ]
         }
       ]
@@ -601,30 +617,36 @@
 
     {
       "title": {
-        "de": "Projekte bei Weitklick (2010 - 2013)"
+        "de": "Projekte bei Weitklick (2010 - 2013)",
+        "en": "Projects at Weitklick (2010 - 2013)"
       },
       "list": [
 
         {
           "title": {
-            "de": "Unity3D/C# Developer"
+            "de": "Unity3D/C# Developer",
+            "en": "Unity3D/C# Developer"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "2012 - 2013",
           "description": {
-            "de": "Entwicklung von 3D Interaktionen mit Unity3D/C# mit Schwerpunkt für Touchscreens auf Messen"
+            "de": "Entwicklung von 3D Interaktionen mit Unity3D/C# mit Schwerpunkt für Touchscreens auf Messen",
+            "en": "3D development with Unity3D/C# for trade fairs"
           },
           "highlights": [
             {
-              "de": "3D Navigation & Steuerungen"
+              "de": "3D Navigation & Steuerungen",
+              "en": "3D Navigation & control"
             },
             {
-              "de": "Entwicklung in C#"
+              "de": "Entwicklung in C#",
+              "en": "C# development"
             },
             {
-              "de": "Enge Zusammenarbeit mit der 3D Abteilung"
+              "de": "Enge Zusammenarbeit mit der 3D Abteilung",
+              "en": "In cooperation with the 3D department"
             }
           ]
         },
@@ -632,24 +654,29 @@
 
         {
           "title": {
-            "de": "Senior Flash/AS3 Entwickler"
+            "de": "Senior Flash/AS3 Entwickler",
+            "en": "Senior Flash/AS3 developer"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "2010 - 2012",
           "description": {
-            "de": "Entwicklung von Flash/AS3 basierte online Editoren die im Online Shop integriert sind um Produkte personalisiert zu gestalten"
+            "de": "Entwicklung von Flash/AS3 basierte online Editoren die im Online Shop integriert sind um Produkte personalisiert zu gestalten",
+            "en": "Flash/AS3 based web editors for customizing products"
           },
           "highlights": [
             {
-              "de": "Impelemntierung der GUI für den Editor"
+              "de": "Impelemntierung der GUI für den Editor",
+              "en": "UI Components for the editor"
             },
             {
-              "de": "Daten Austausch über Schnittstellen im json Format"
+              "de": "Daten Austausch über Schnittstellen im json Format",
+              "en": "Data exchange through JSON"
             },
             {
-              "de": "Entwicklung mit AS3 & das PureMVC Framework"
+              "de": "Entwicklung mit AS3 & das PureMVC Framework",
+              "en": "AS3 development with the pureMVC framework"
             }
           ]
         }
@@ -659,30 +686,32 @@
 
     {
       "title": {
-        "de": "Projekte bei Hydra New Media (2008 - 2010)"
+        "de": "Projekte bei Hydra New Media (2008 - 2010)",
+        "en": "Projects at Hydra New Media (2008 - 2010)"
       },
       "list": [
 
         {
           "title": {
-            "de": "Flash/AS3 Entwikler"
+            "de": "Flash/AS3 Entwikler",
+            "en": "Flash/AS3 Developer"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "2008 - 2010",
           "description": {
-            "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson"
+            "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson",
+            "en": "Full Browser Flash/AS3 development for Sony-Ericsson campaigns"
           },
           "highlights": [
             {
-              "de": "Entwicklung full Browser Flash/AS3 Anwendungen für die Campaignen von Sony-Ericsson"
+              "de": "Personalisierter Content",
+              "en": "Personalized content"
             },
             {
-              "de": "Personalisierter Content"
-            },
-            {
-              "de": "Tracken der Benutzer Interaktionen"
+              "de": "Tracken der Benutzer Interaktionen",
+              "en": "Tracking user interaction"
             }
           ]
         }
