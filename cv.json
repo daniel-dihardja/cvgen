@@ -176,7 +176,7 @@
           "period": "09/2018 - 12/2018",
           "description": {
             "de": "Verschicken von event Reminders über SMS und E-Mail für die AUDI Händler während der Auto Shanghai 2019",
-            "en": "Sending event reminder through SMS & Email for the AUDI dealer during the Auto Shanghai 2019"
+            "en": "Sending event reminders through SMS & Email for AUDI retailers during the Auto Shanghai 2019"
           },
           "highlights": [
             {
@@ -213,16 +213,16 @@
           "period": "03/2018 - 05/2018",
           "description": {
             "de": "Implementierung der REST Schnittstellen für das AUDI Händler Meeting in Wien",
-            "en": "Implementing REST APIs for the AUDI dealer Meeting in Vienna"
+            "en": "Implementing REST APIs for AUDI retailers meeting in Vienna"
           },
           "highlights": [
             {
               "de": "Entwicklung mit dem Node.js Framework Loopback",
-              "en": "Using the Loopback 3 framework"
+              "en": "NodeJS debelopment with Loopback 3"
             },
             {
               "de": "Tracken der besucher Aktivitäten",
-              "en": "Tracking visitors activity",
+              "en": "Tracking visitors activity"
             },
             {
               "de": "Versenden von SMS & Push Notifications",
@@ -303,126 +303,153 @@
 
         {
           "title": {
-            "de": "Frontend Entwicklung mit Angular2"
+            "de": "Frontend Entwicklung mit Angular2",
+            "en": "Frontend development with Angular2"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "03/2017 - 05/2017",
           "description": {
-            "de": "Entwicklung am Mercedes me Portal für die Konfigurieren des Fahrzeuges"
+            "de": "Entwicklung am Mercedes me Portal für die Konfigurieren des Fahrzeuges",
+            "en": "Web portal for configuring vehicles"
           },
           "highlights": [
             {
-              "de": "Angular2 & Typescript"
+              "de": "Angular2 & Typescript",
+              "en": "Angular2 & Typescript"
             },
             {
-              "de": "Redux für das Verwalten der States der Anwendung"
+              "de": "Redux für das Verwalten der States der Anwendung",
+              "en": "Redux for managing the app state"
             },
             {
-              "de": "Unit Tests mit Jasmine"
+              "de": "Unit Tests mit Jasmine",
+              "en": "Unit Tests with Jasmine"
             },
             {
-              "de": "e2e Tests mit Protractor"
+              "de": "e2e Tests mit Protractor",
+              "en": "e2e Tests with Protractor"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Frontend Entwicklung mit Angular2"
+            "de": "Frontend Entwicklung mit Angular2",
+            "en": "Frontend development with Angular2"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "01/2017 - 03/2017",
           "description": {
-            "de": "Entwicklung eines Prototypes für die Sick AG um Anwendungen für Sensoren über die Cloud zu installieren"
+            "de": "Entwicklung eines Prototypes für die Sick AG um Anwendungen für Sensoren über die Cloud zu installieren",
+            "en": "Application prototype for installing/updating sensors firmware through the cloud"
           },
           "highlights": [
             {
-              "de": "Angular2 & Typescript"
+              "de": "Angular2 & Typescript",
+              "en": "Angular2 & Typescript"
             },
             {
-              "de": "Unit Tests mit Jasmine"
+              "de": "Unit Tests mit Jasmine",
+              "en": "Unit Tests mit Jasmine"
             },
             {
-              "de": "E2E Tests mit Protractor"
+              "de": "E2E Tests mit Protractor",
+              "en": "E2E Tests mit Protractor"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS"
+            "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS",
+            "en": "Backend development with Node.js & CMS with AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "08/2016 - 11/2016",
           "description": {
-            "de": "Implementierung des Backend und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen"
+            "de": "Implementierung des Backend und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen",
+            "en": "Backend and AngularJS based CMS for ZF Forum Friedrichshafen",
           },
           "highlights": [
             {
-              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback"
+              "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback",
+              "en": "REST API implementation with Node.s and Loopback"
             },
             {
-              "de": "AngularJS basierendes CMS um den Content zu pflegen"
+              "de": "AngularJS basierendes CMS um den Content zu pflegen",
+              "en": "AngularJS based CMS for content management"
             },
             {
-              "de": "MySQL, Centos, Docker"
+              "de": "MySQL, Centos, Docker",
+              "en": "MySQL, Centos, Docker"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Hybrid App Entwicklung mit Ionic, AngularJS"
+            "de": "Hybrid App Entwicklung mit Ionic, AngularJS",
+            "en": "Hybrid App with Ionic and AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "03/2016 - 07/2016",
           "description": {
-            "de": "Entwicklung einer hybrid App mit ionic um Produkte vorzubestellen"
+            "de": "Entwicklung einer hybrid App mit ionic um Produkte vorzubestellen",
+            "en": "Hybrid app development for preordering products"
           },
           "highlights": [
             {
-              "de": "Entwicklung der GUI Komponenten"
+              "de": "Entwicklung der GUI Komponenten",
+              "en": "UI components"
             },
             {
-              "de": "Daten synchronisieren aus einer remote CouchDB in die lokale CouchDB"
+              "de": "Daten synchronisieren aus einer remote CouchDB in die lokale CouchDB",
+              "en": "Syncing data from the app and a remote CouchDB instance"
             },
             {
-              "de": "Daten Austausch über REST Schnittstellen"
+              "de": "Daten Austausch über REST Schnittstellen",
+              "en": "Consuming REST APIs"
             },
             {
-              "de": "Unit Tests mit Jasmine"
+              "de": "Unit Tests mit Jasmine",
+              "en": "Unit Tests with Jasmine"
             },
             {
-              "de": "E2e Tests mit Protractor"
+              "de": "E2e Tests mit Protractor",
+              "en": "E2e Tests with Protractor"
             }
           ]
         },
 
         {
           "title": {
-            "de": "Coaching Ionic mit AngularJS"
+            "de": "Coaching Ionic mit AngularJS",
+            "en": "Coaching Ionic with AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "04/2015 - 02/2016",
           "description": {
-            "de": "Ionic Coaching für die Tablet App der multiplayer edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)"
+            "de": "Ionic Coaching für die Tablet App der multiplayer edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)",
+            "en": "Ionic Coaching for developing a tablet App as part of the multiplayer edutainment games at the 'Ersten Financial Life Park' in Wien (FLIP)"
           },
           "highlights": [
             {
-              "de": "Einführung in Ionic und AngularJS"
+              "de": "Einführung in Ionic und AngularJS",
+              "en": "Ionic and AngularJS introduction"
             },
             {
-              "de": "Projekt Struktur anlegen"
+              "de": "Projekt Struktur anlegen",
+              "en": "Scaffolding project"
             }
 
           ]
