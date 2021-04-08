@@ -457,36 +457,45 @@
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS"
+            "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS",
+            "en": "Backend development with Node.js & CMS with AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
           },
           "period": "04/2015 - 02/2016",
           "description": {
-            "de": "Implementierung des Backends mit Node.js und ein AngularJS basierendes CMS für die multiplayer edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)"
+            "de": "Implementierung des Backends mit Node.js und ein AngularJS basierendes CMS für die multiplayer edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)",
+            "en": "Backend development with Node.js and an AngularJS based CMS for the multiplayer edutainment games at the 'Ersten Financial Life Park' in Vienna (FLIP)"
           },
           "highlights": [
             {
-              "de": "User Management für die Betreuer und die Gäste"
+              "de": "User Management für die Betreuer und die Gäste",
+              "en": "User management for guides and guests"
             },
             {
-              "de": "Automatisches erstellen von Gruppen und Teams während des Spieles"
+              "de": "Automatisches erstellen von Gruppen und Teams während des Spieles",
+              "en": "Automaticy generate group and teams during the games"
             },
             {
-              "de": "Implementierung der REST Schnittstellen für die gesammten 7 Spiele mit dem Node.js Framework Loopback"
+              "de": "Implementierung der REST Schnittstellen für die gesammten 7 Spiele mit dem Node.js Framework Loopback",
+              "en": "REST API implementation for 7 games with dem Node.js and Loopback"
             },
             {
-              "de": "Kommunikation zwischen den Geräten über Socket.IO"
+              "de": "Kommunikation zwischen den Geräten über Socket.IO",
+              "en": "Devices communication through Socket.IO"
             },
             {
-              "de": "Triggern der Mediensteuerung über Telnet"
+              "de": "Triggern der Mediensteuerung über Telnet",
+              "en": "Triggering sounds & video through Telnet"
             },
             {
-              "de": "AngularJS basierendes CMS"
+              "de": "AngularJS basierendes CMS",
+              "en": "AngularJS basied CMS"
             },
             {
-              "de": "MySQL, Centos, Docker"
+              "de": "MySQL, Centos, Docker",
+              "en": "MySQL, Centos, Docker"
             }
           ]
         },
