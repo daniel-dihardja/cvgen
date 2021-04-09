@@ -64,7 +64,7 @@
       {
         "title": {
           "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart",
-          "EN": "Unity3D/C# developer at Weitklick GmbH, Stuttgart"
+          "en": "Unity3D/C# developer at Weitklick GmbH, Stuttgart"
         },
         "period": {
           "de": "2012 - 2013",
@@ -106,7 +106,7 @@
         {
           "title": {
             "de": "Frontend Entwicklung mit Angular - Syngenio AG",
-            "en": "Frontend development with angular - Syngenio AG"
+            "en": "Frontend development with Angular - Syngenio AG"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -123,7 +123,7 @@
             {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile", "en": "Digital Account Check implementation "},
             {"de": "Implementierung des white Labelling für partner Banken", "en": "White labelling implementation for partner banks"},
             {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten", "en": "PWA implementation"},
-            {"de": "Implementierung einer projekt übergreifenden UI komponenten Library" "en": "UI component library"},
+            {"de": "Implementierung einer projekt übergreifenden UI komponenten Library", "en": "UI component library"},
             {"de": "Angular, NgRx, Rxjs, Cypress", "en": "Angular, NgRx, Rxjs, Cypress"}
           ]
         },
@@ -138,7 +138,7 @@
           "period": "04/2019 - 08/2019",
           "description": {
             "de": "Implementierung neue Features für ein multiplayer edutainment Spiel im Ersten Financial Life Park in Wien (FLIP)",
-            "en": "Implementing new Features for the multiplayer edutainment games at the 'Ersten Financial Life Park' in Wien (FLIP)"
+            "en": "Implementing new Features for the multiplayer edutainment games at the 'Ersten Financial Life Park' in Vienna (FLIP)"
           },
           "highlights": [
             {
@@ -205,7 +205,7 @@
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js",
-            "en": "Node.js Backend development"
+            "en": "Backend development with Node.js "
           },
           "type": {
             "de": "Nebenprojekt"
@@ -250,7 +250,7 @@
           "period": "01/2018 - 03/2018",
           "description": {
             "de": "Erweiterung des Socket Servers der multiplayer Edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)",
-            "en": "Adding new features to the socket server of the multiplayer edutainment games ath the 'Ersten Financial Life Park in Wien (FLIP)'"
+            "en": "Adding new features to the socket server of the multiplayer edutainment games ath the 'Ersten Financial Life Park in Vienna (FLIP)'"
           },
           "highlights": [
             {
@@ -378,7 +378,7 @@
           "period": "08/2016 - 11/2016",
           "description": {
             "de": "Implementierung des Backend und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen",
-            "en": "Backend and AngularJS based CMS for ZF for an exhibition at the Forum Friedrichshafen"
+            "en": "Backend development and AngularJS based CMS for ZF for an exhibition at the Forum Friedrichshafen"
           },
           "highlights": [
             {
@@ -444,7 +444,7 @@
           "period": "04/2015 - 02/2016",
           "description": {
             "de": "Ionic Coaching für die Tablet App der multiplayer edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)",
-            "en": "Ionic Coaching for developing a tablet App as part of the multiplayer edutainment games at the 'Ersten Financial Life Park' in Wien (FLIP)"
+            "en": "Ionic Coaching for developing a tablet App as part of the multiplayer edutainment games at the 'Ersten Financial Life Park' in Vienna (FLIP)"
           },
           "highlights": [
             {
