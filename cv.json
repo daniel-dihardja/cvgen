@@ -37,7 +37,7 @@
       {
         "title": {
           "de": "Studium zum staatlich anerkannter Grafik Designer mit schwerpunkt interaktive Medien an der Frankfurter Akademie für Kommunikation und Design in Frankfurt am Main",
-          "en": "Studied graphic with focus on interactive media at the 'Frankfurter Akademie für Kommunikation und Design' at Frankfurt am Main"
+          "en": "Studied graphic design with focus on interactive media at the 'Frankfurter Akademie für Kommunikation und Design' at Frankfurt am Main"
         },
         "period": "07/2000 - 06/2005"
       }
@@ -53,7 +53,7 @@
       {
         "title": {
           "de": "Freiberuflicher Anwendungsentwickler mit Schwerpunkt JavaScript / TypeScript / Node.js",
-          "en": "Freelancer software developer with focus on JavaScript/Node.js"
+          "en": "Freelancer software developer with focus on JavaScript / TypeScript / Node.js"
         },
         "period": {
           "de": "2013 - Heute",
@@ -378,7 +378,7 @@
           "period": "08/2016 - 11/2016",
           "description": {
             "de": "Implementierung des Backend und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen",
-            "en": "Backend development and AngularJS based CMS for ZF for an exhibition at the Forum Friedrichshafen"
+            "en": "Backend development with Node.js and AngularJS based CMS for ZF for an exhibition at the Forum Friedrichshafen"
           },
           "highlights": [
             {
