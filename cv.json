@@ -30,13 +30,14 @@
       {
         "title": {
           "de": "Ausbildung zum Fachinformatiker Anwendungsentwicklung bei Zend Technologies GmbH in Stuttgart",
-          "en": "Apprentice software development at Zend Technologies GmbH in Stuttgart"
+          "en": "Apprenticeship software development at Zend Technologies GmbH in Stuttgart"
         },
         "period": "07/2005 - 06/2008"
       },
       {
         "title": {
-          "de": "Studium zum staatlich anerkannter Grafik Designer mit schwerpunkt interaktive Medien an der Frankfurter Akademie für Kommunikation und Design in Frankfurt am Main"
+          "de": "Studium zum staatlich anerkannter Grafik Designer mit schwerpunkt interaktive Medien an der Frankfurter Akademie für Kommunikation und Design in Frankfurt am Main",
+          "en": "Studied graphic with focus on interactive media at the 'Frankfurter Akademie für Kommunikation und Design' at Frankfurt am Main"
         },
         "period": "07/2000 - 06/2005"
       }
@@ -46,7 +47,7 @@
   "experience": {
     "title": {
       "de": "Beruflicher Werdegang",
-      "en": ""
+      "en": "Vita"
     },
     "list": [
       {
@@ -63,7 +64,7 @@
       {
         "title": {
           "de": "Unity3D/C# developer bei Weitklick GmbH, Stuttgart",
-          "EN": "Unity3D/C# developer at Weitklick GmbH, Stuttgart",
+          "EN": "Unity3D/C# developer at Weitklick GmbH, Stuttgart"
         },
         "period": {
           "de": "2012 - 2013",
@@ -116,14 +117,13 @@
             "en": "Frontend development for consumer and b2b web application at the Creditplus AG Bank"
           },
           "highlights": [
-            {"de": "Smartmobile, mobile first online kredit Antragstrecke", "en": "Mobile first online credit offer"},
-            {"de": "Webshop, Point of sale eCommerce integration für produkt Finanzierungen", "en": "Point of sale eCommerce integration for financing products"},
+            {"de": "Mobile first online kredit Antragstrecke", "en": "Mobile first online credit offer"},
+            {"de": "Point of sale eCommerce integration für produkt Finanzierungen", "en": "Point of sale eCommerce integration for financing products"},
             {"de": "B2B Anwendung für die Finanzierungen von Fahrzeuge, Elektronische Geräte, Möbel, etc", "en": "B2b web application for financing vehicles, electronic equipment, furnitures, etc" },
             {"de": "Implementierung des digitalen Kontoblicks (DAC) für Smartmobile", "en": "Digital Account Check implementation "},
             {"de": "Implementierung des white Labelling für partner Banken", "en": "White labelling implementation for partner banks"},
             {"de": "Implementierung der PWA (Progressive Web App) Funktionalitäten", "en": "PWA implementation"},
             {"de": "Implementierung einer projekt übergreifenden UI komponenten Library" "en": "UI component library"},
-
             {"de": "Angular, NgRx, Rxjs, Cypress", "en": "Angular, NgRx, Rxjs, Cypress"}
           ]
         },
@@ -205,7 +205,7 @@
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js",
-            "en": "Node js Backend development"
+            "en": "Node.js Backend development"
           },
           "type": {
             "de": "Nebenprojekt"
@@ -218,7 +218,7 @@
           "highlights": [
             {
               "de": "Entwicklung mit dem Node.js Framework Loopback",
-              "en": "NodeJS debelopment with Loopback 3"
+              "en": "Node.js development with Loopback 3"
             },
             {
               "de": "Tracken der besucher Aktivitäten",
@@ -242,7 +242,7 @@
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js",
-            "en": "Backend development with node.js",
+            "en": "Backend development with Node.js"
           },
           "type": {
             "de": "Nebenprojekt"
@@ -250,20 +250,24 @@
           "period": "01/2018 - 03/2018",
           "description": {
             "de": "Erweiterung des Socket Servers der multiplayer Edutainment Spiele im Ersten Financial Life Park in Wien (FLIP)",
-            "en": "Adding new features to the socket server of the multiplayer edutainment games ath the 'Ersten Financial Life Park in Wien (FLIP)'",
+            "en": "Adding new features to the socket server of the multiplayer edutainment games ath the 'Ersten Financial Life Park in Wien (FLIP)'"
           },
           "highlights": [
             {
               "de": "Zuordnung des client Sockets in Gruppen",
-              "en": "Mapping a visitors socket inside the group"
+              "en": "Mapping visitors sockets inside the group"
             },
             {
               "de": "Das Verwalten von verbundene & verlorene Clients",
-              "en": "Managing visitors client connections",
+              "en": "Managing visitors client connections"
             },
             {
               "de": "Vermisste Notifications erneut an den Client verschicken",
               "en": "Resend previous notifications for new visitors client connection"
+            },
+            {
+              "de": "MySQL, Docker und AWS",
+              "en": "MySQL, Docker and AWS"
             }
           ]
         },
@@ -271,7 +275,7 @@
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js",
-            "en": "Backend development with node.js"
+            "en": "Backend development with Node.js"
           },
           "type": {
             "de": "Nebenprojekt"
@@ -284,7 +288,7 @@
           "highlights": [
             {
               "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback",
-              "en": "REST API with NodeJS and Loopback"
+              "en": "REST API with Node.s and Loopback"
             },
             {
               "de": "Versenden von SMS und Push Notifications an die mobile App",
@@ -366,7 +370,7 @@
         {
           "title": {
             "de": "Backend Entwicklung mit Node.js & CMS mit AngularJS",
-            "en": "Backend development with Node.js & CMS with AngularJS"
+            "en": "Backend development with Node.js & custom CMS with AngularJS"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -374,7 +378,7 @@
           "period": "08/2016 - 11/2016",
           "description": {
             "de": "Implementierung des Backend und ein AngularJS basierendes CMS für die interaktive Ausstellungsfläche im ZF Forum Friedrichshafen",
-            "en": "Backend and AngularJS based CMS for ZF Forum Friedrichshafen",
+            "en": "Backend and AngularJS based CMS for ZF for an exhibition at the Forum Friedrichshafen"
           },
           "highlights": [
             {

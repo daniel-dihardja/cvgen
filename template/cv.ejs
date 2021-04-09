@@ -7,47 +7,47 @@
 <body>
 <strong><%= head.name %></strong>
 <br/>
-<%= head.birth.de %>
+<%= head.birth.en %>
 <br/>
 <br/>
-<%= objective.de %>
+<%= objective.en %>
 <br/>
 <br/>
-<strong><%= education.title.de %></strong><br />
+<strong><%= education.title.en %></strong><br />
 <% education.list.forEach((edu) => { %>
 <small><i><%= edu.period %></i></small><br/>
-<%= edu.title.de %><br/>
+<%= edu.title.en %><br/>
 <br/>
 <% }); %>
 <br/>
 <br/>
-<strong><%= experience.title.de%></strong><br/>
+<strong><%= experience.title.en%></strong><br/>
 <% experience.list.forEach((exp) => { %>
-<small><i><%= exp.period.de %></i></small><br/>
-<%= exp.title.de %><br/>
+<small><i><%= exp.period.en %></i></small><br/>
+<%= exp.title.en %><br/>
 <br/>
 <% }); %>
 <br/>
 <br/>
 
-<strong><%= technologies.title.de%></strong><br/>
+<strong><%= technologies.title.en%></strong><br/>
 <% technologies.list.forEach(item => { %>
 <%= item + ',' %>
 <% }); %>
 <br/>
 <br/>
 <% projects.forEach((prj) => { %>
-    <strong><%= prj.title.de %></strong>
+    <strong><%= prj.title.en %></strong>
     <br/>
     <br/>
     <% prj.list.forEach((p) => { %>
         <small><i><%= p.period %></i></small><br/>
         <!--small><%= p.type.de %></small><br/-->
-        <strong><%= p.title.de %></strong><br/>
-        <%= p.description.de %>
+        <strong><%= p.title.en %></strong><br/>
+        <%= p.description.en %>
         <ul>
             <% p.highlights.forEach((h) => { %>
-            <li><%= h.de %></li>
+            <li><%= h.en %></li>
             <% }) %>
         </ul>
         <br/>
