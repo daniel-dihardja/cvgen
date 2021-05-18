@@ -17,7 +17,7 @@
       "en": "Tools / Frameworks"
     },
     "list": [
-      "Angular", "Typescript", "Ionic", "NgRx", "Rxjs","ES6", "NodeJS", "NestJS","Loopback", "MySQL", "Cypress", "Mocca", "Jasmine", "Protractor", "Storybook", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
+      "Angular", "Typescript", "Ionic", "NgRx", "Rxjs","ES6", "Node.js", "NestJS","Loopback", "MySQL", "Cypress", "Mocca", "Jasmine", "Protractor", "Storybook", "Docker", "AWS", "Jenkins", "Swagger", "OpenAPI", "Jira", "Git"
     ]
   },
 
@@ -129,8 +129,8 @@
         },
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js",
-            "en": "Backend development with Node.js"
+            "de": "Fullstack Entwicklung Angular, Node.js",
+            "en": "Fullstack development with Angular, Node.js"
           },
           "type": {
             "de": "Hauptprojekt"
@@ -142,8 +142,8 @@
           },
           "highlights": [
             {
-              "de": "Node.js / Loopback",
-              "en": "Node.js / Loopback"
+              "de": "Node.js / Loopback, Angular",
+              "en": "Node.js / Loopback, Angular"
             },
             {
               "de": "Datenstruktur Anpassungen",
@@ -152,6 +152,10 @@
             {
               "de": "REST Schnittstellen Anpassungen",
               "en": "Customizing REST API"
+            },
+            {
+              "de": "Angular basiertes CMS",
+              "en": "Angular based CMS"
             },
             {
               "de": "Socket.IO",
@@ -164,11 +168,10 @@
           ]
         },
 
-
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js",
-            "en": "Backend development with Node.js"
+            "de": "Fullstack Entwicklung mit Angular & Node.js",
+            "en": "Fullstack development with Angular & Node.js"
           },
           "type": {
             "de": "Neben Projekt"
@@ -179,6 +182,10 @@
             "en": "Sending event reminders through SMS & Email for AUDI retailers during the Auto Shanghai 2019"
           },
           "highlights": [
+            {
+              "de": "Web admin Bereich (Angular 4) für das verwalten der Timeline des Events",
+              "en": "Angular based administration tool for managing timelines and events."
+            },
             {
               "de": "Node.js",
               "en": "Node.js"
@@ -204,8 +211,8 @@
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js",
-            "en": "Backend development with Node.js "
+            "de": "Fullstack Entwicklung mit Angular & Node.js",
+            "en": "Fullstack development with Angular & Node.js"
           },
           "type": {
             "de": "Nebenprojekt"
@@ -230,7 +237,7 @@
             },
             {
               "de": "Web admin Bereich (Angular 4) für das verwalten der Timeline des Events",
-              "en": "Web bvased administration tool for managing timelines and events."
+              "en": "Angular based administration tool for managing timelines and events."
             },
             {
               "de": "MySQL, Docker und AWS",
@@ -241,7 +248,7 @@
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js",
+            "de": "Socket Entwicklung mit Node.js",
             "en": "Backend development with Node.js"
           },
           "type": {
@@ -274,8 +281,8 @@
 
         {
           "title": {
-            "de": "Backend Entwicklung mit Node.js",
-            "en": "Backend development with Node.js"
+            "de": "Fullstack Entwicklung mit Angular, Node.js",
+            "en": "Fullstack development with Angular & Node.js"
           },
           "type": {
             "de": "Nebenprojekt"
@@ -288,7 +295,7 @@
           "highlights": [
             {
               "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback",
-              "en": "REST API with Node.s and Loopback"
+              "en": "REST API with Node.js and Loopback"
             },
             {
               "de": "Versenden von SMS und Push Notifications an die mobile App",
@@ -296,7 +303,7 @@
             },
             {
               "de": "Angular 4 basierter Admin Bereich für die Verwaltung der Timeline des Events",
-              "en": "Web based administration tool for managing timelines and events"
+              "en": "Angular 4 based administration tool for managing timelines and events"
             },
             {
               "de": "MySQL, Docker und AWS",
@@ -383,7 +390,7 @@
           "highlights": [
             {
               "de": "Implementierung der REST Schnittstellen mit dem Node.js Framework Loopback",
-              "en": "REST API implementation with Node.s and Loopback"
+              "en": "REST API implementation with Node.js and Loopback"
             },
             {
               "de": "AngularJS basierendes CMS um den Content zu pflegen",
